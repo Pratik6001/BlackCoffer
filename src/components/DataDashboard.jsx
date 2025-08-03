@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import FiltersAndControls from "./Filters";
 import Metrics from "./Metrics";
-import Card from "./card";
+import Card from "./Cards";
 import axios from "axios";
 
 export default function Dashboard() {
